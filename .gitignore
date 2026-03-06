@@ -1,0 +1,22 @@
+# Generated reports
+
+bigcapture_reports_*
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.cache
+
+# PCAP files (optional)
+
+*.pcap
+*.pcapng
+
+# OS files
+
+.DS_Store
+Thumbs.db
